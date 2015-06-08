@@ -121,6 +121,7 @@
     <script>var GithubPush = {num_old:5,nodes:['ProjectSkyfire/SkyFireEMU']}</script>
     <div id='commits'></div>
 </div>
-
+      <iframe src="http://tylerlh.github.com/github-latest-commits-widget/?username=ProjectSkyfire&repo=https://github.com/ProjectSkyfire/SkyFire.548&limit=10"
+  allowtransparency="true" frameborder="0" scrolling="no" width="502px" height="252px"></iframe>
 </body>
 </html>
